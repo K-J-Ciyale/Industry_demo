@@ -1,0 +1,4 @@
+file:///home/linux/ti-processor-sdk-linux-am57xx-evm-05.03.00.07/linux-devkit/sysroots/armv7ahf-neon-linux-gnueabi/usr/share/ti/tidl/tidl_api/inc \\\\
+
+http://downloads.ti.com/mctools/esd/docs/tidl-api/example.html
+

@@ -1,0 +1,15 @@
+详情：
+
+- 转换模型：
+
+   root @ am57xx-evm：tidl_model_import.out tidl_import.txt
+
+   （请参阅附件“tidl_import.txt”＆cnv_log.txt文件）
+
+ 
+https://e2e.ti.com/support/processors/f/791/t/784586?tisearch=e2e-sitesearch&keymatch=tidl_model_import.out
+- 运行演示
+
+   root @ am57xx-evm：cd / usr / share / ti / tidl / examples / classification
+
+   root @ am57xx-evm：./ tdl_classification -g 1 -d 2 -e 2 -l ./imagenet.txt -s ./classlist.txt -i ./clips/test10.mp4 -c / home / root / stream_config_j11_v2。文本
